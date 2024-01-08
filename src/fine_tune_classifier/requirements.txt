@@ -1,0 +1,8 @@
+numpy
+boto3
+transformers==4.6
+datasets
+sagemaker
+deepspeed
+torch
+tqdm
